@@ -19,3 +19,9 @@ if (abc == 1) {
   def = 2;
 }
 ```
+
+### Task Lists
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
